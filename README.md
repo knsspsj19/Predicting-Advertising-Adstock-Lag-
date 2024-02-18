@@ -1,2 +1,4 @@
 # Predicting-Advertising-Adstock-Lag-
 A structured methodology to find Advertising adstock or Lag using Bass diffusion model and Mark Chains. 
+Advertising adstock, commonly referred as the Lag, is a critical component in market mix modelling. Lag is the time gap between point when advertisement for a product is shown and the point when the advertisement starts affecting sales. This value is generally derived through common sense, business knowledge and domain experience. However, this estimate of deriving lag is not methodological and thus often biased and far from accurate. Further, Lag is an important feature whose correct estimate can lead to considerable increase in accuracy of Machine Learning attribution models.
+Therefore, in this paper, we present a structured approach of finding Lag with the help of Bass Diffusion Model and Markov Chain Monte Carlo sampling to predict with a reasonable accuracy, the correct estimate of Lag.
